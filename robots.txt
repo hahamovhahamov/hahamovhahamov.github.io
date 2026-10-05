@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hahamovhahamov.github.io/sitemap.xml
